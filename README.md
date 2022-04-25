@@ -1,1 +1,2 @@
-# Heart-disease-prediction-Django
+# Heart-Disease-Prediction-Django
+Heart Disease Prediction using Django
